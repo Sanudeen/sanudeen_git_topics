@@ -22,7 +22,7 @@ for (let key in check){
 for (let key of check2){
         console.log(key);
         }
-console.log("this is 10nd commit")
+console.log("this is 11th commit")
 for (let key of check2){
     console.log(key);
     }
