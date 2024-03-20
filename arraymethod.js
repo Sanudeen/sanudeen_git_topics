@@ -18,7 +18,7 @@ console.log(concatword);
 
 //array meethods at(), push(), pop()
 
-const hobbies = ["Sleeping", "bike riding","painting","cooking"]
+const hobbies = ["Sleeping", "riding","painting","cooking"]
 
 let hobbyat = hobbies.at(4);
 console.log("At function : ", hobbyat);
